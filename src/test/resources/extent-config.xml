@@ -1,0 +1,11 @@
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <documentTitle>Flipkart Automation Report</documentTitle>
+        <reportName>Flipkart Functional Test Suite</reportName>
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+        <timelineEnabled>true</timelineEnabled>
+    </configuration>
+</extentreports>
